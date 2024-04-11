@@ -13,9 +13,9 @@
   "author": "Kenneth Nicolas <krenicgm@gmail.com>",
   "license": "MIT",
   "description": "",
-  "homepage": "https://github.com/gndx/random-str-msg#readme",
+  "homepage": "https://github.com/kennethnico/random-str-msg-kn#readme",
   "bin": {
-    "random-str-msg": "./bin/global.js"
+    "random-str-msg-kn": "./bin/global.js"
   },
   "preferGlobal": true,
   "dependencies": {
